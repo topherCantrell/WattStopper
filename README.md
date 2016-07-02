@@ -16,7 +16,7 @@ The switch is highly configurable through DIP switch settings accessible to the 
 button to access the switches beneath. The user guide describes all the various modes and settings. If you set the first three switches 
 to ON (up) then the switch goes into "service" mode. You have to manually turn the switch on and off just like a regular light switch.
 
-![](https://git.synapse-wireless.com/chris.cantrell/office/blob/master/WattStopper/Art/photo4.jpg)
+![](https://github.com/topherCantrell/WattStopper/blob/master/Art/photo4.jpg)
 
 ## Out of the Box
 
