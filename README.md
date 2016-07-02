@@ -78,6 +78,8 @@ I ran the wires from the Watt Stopper to the screw holes in the protoboard and t
 
 ## All in the Wall
 
+I replaced the demo board with a tiny Synapse radio with a whip antenna. The entire project fit inside the wall in the switch box. I wish I had take a photo of it installed.
+
 
 ### RF200 Wiring ###
 
